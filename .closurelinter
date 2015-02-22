@@ -1,0 +1,4 @@
+--strict
+--nojsdoc
+-e node_modules
+-x rollover.min.js
