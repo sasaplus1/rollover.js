@@ -1,0 +1,8 @@
+{
+  "name": "rollover",
+  "main": "rollover.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}
