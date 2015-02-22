@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "fix": "fixjsstyle --flagfile .closurelinter -r .",
+    "lint": "gjslint --flagfile .closurelinter -r .",
+    "minify": "uglifyjs ./rollover.js --comments -cm -r rollover -o ./rollover.min.js"
+  },
+  "devDependencies": {
+    "uglify-js": "^2.4.16"
+  }
+}
