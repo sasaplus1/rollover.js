@@ -1,5 +1,7 @@
 # rollover.js
 
+useful for rollover implementation
+
 ## Installation
 
 ```console
